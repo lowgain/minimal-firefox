@@ -1,0 +1,8 @@
+/* hide title bar and its elements */
+#titlebar-secondary-buttonbox,
+#titlebar .toolbar-items,
+#titlebar .titlebar-spacer,
+#toolbar-menubar,
+#tabbrowser-tabs {
+  display: none;
+}
